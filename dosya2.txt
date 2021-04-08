@@ -1,1 +1,3 @@
 dosya2
+
+master'da deðiþtirildi.
