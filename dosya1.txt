@@ -1,3 +1,5 @@
 dosya1
 
 dosya1 deðiþtirildi.
+
+obilhanda deðiþtirildi.
